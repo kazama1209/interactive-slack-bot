@@ -1,0 +1,41 @@
+[
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "どの動物について知りたいですか？"
+    }
+  },
+  {
+    "type": "actions",
+    "elements": [
+      {
+        "type": "button",
+        "text": {
+          "type": "plain_text",
+          "text": "犬について",
+          "emoji": true
+        },
+        "value": "dog"
+      },
+      {
+        "type": "button",
+        "text": {
+          "type": "plain_text",
+          "text": "猫について",
+          "emoji": true
+        },
+        "value": "cat"
+      },
+      {
+        "type": "button",
+        "text": {
+          "type": "plain_text",
+          "text": "兎について",
+          "emoji": true
+        },
+        "value": "rabbit"
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "image",
+    "image_url": "https://www.pakutaso.com/shared/img/thumb/USAGI0I9A6075_TP_V.jpg",
+    "alt_text": "image"
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "兎については次の記事を読んでください。"
+    },
+    "accessory": {
+      "type": "button",
+      "text": {
+        "type": "plain_text",
+        "text": "Click Me",
+        "emoji": true
+      },
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B5%E3%82%AE"
+    }
+  }
+]
